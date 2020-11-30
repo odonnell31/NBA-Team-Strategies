@@ -227,7 +227,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2013,Miami Heat,66,16,0.805,102.9,95,7.03,Y,N,Y
 2013,Milwaukee Bucks,38,44,0.463,98.9,100.4,-1.83,Y,Y,N
 2013,Minnesota Timberwolves,31,51,0.378,95.7,98.1,-1.83,N,Y,N
-2013,New Orleans Hornets,27,55,0.329,94.1,97.9,-3.12,N,Y,N
+2013,Charlotte Hornets,27,55,0.329,94.1,97.9,-3.12,N,Y,N
 2013,New York Knicks,54,28,0.659,100,95.7,3.73,Y,N,N
 2013,Oklahoma City Thunder,60,22,0.732,105.7,96.5,9.15,Y,N,N
 2013,Orlando Magic,20,62,0.244,94.1,101.1,-7.12,N,Y,N
@@ -256,8 +256,8 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2012,Miami Heat,46,20,0.697,98.5,92.5,5.72,Y,N,Y
 2012,Milwaukee Bucks,31,35,0.47,99,98.7,-0.23,N,Y,N
 2012,Minnesota Timberwolves,26,40,0.394,97.9,100.1,-1.83,N,Y,N
-2012,New Jersey Nets,22,44,0.333,93.1,99.1,-6.37,N,Y,N
-2012,New Orleans Hornets,21,45,0.318,89.6,93.4,-3.11,N,Y,N
+2012,Brooklyn Nets,22,44,0.333,93.1,99.1,-6.37,N,Y,N
+2012,Charlotte Hornets,21,45,0.318,89.6,93.4,-3.11,N,Y,N
 2012,New York Knicks,36,30,0.545,97.8,94.7,2.39,Y,N,N
 2012,Oklahoma City Thunder,47,19,0.712,103.1,96.9,6.44,Y,N,Y
 2012,Orlando Magic,37,29,0.561,94.2,93.4,0.46,Y,N,N
@@ -286,8 +286,8 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2011,Miami Heat,58,24,0.707,102.1,94.6,6.76,Y,N,Y
 2011,Milwaukee Bucks,35,47,0.427,91.9,92.7,-1.02,N,Y,N
 2011,Minnesota Timberwolves,17,65,0.207,101.1,107.7,-5.97,N,Y,N
-2011,New Jersey Nets,24,58,0.293,94.2,100.4,-6.28,N,Y,N
-2011,New Orleans Hornets,46,36,0.561,94.9,94,1.28,Y,N,N
+2011,Brooklyn Nets,24,58,0.293,94.2,100.4,-6.28,N,Y,N
+2011,Charlotte Hornets,46,36,0.561,94.9,94,1.28,Y,N,N
 2011,New York Knicks,42,40,0.512,106.5,105.7,0.48,Y,N,N
 2011,Oklahoma City Thunder,55,27,0.671,104.8,101,3.81,Y,N,N
 2011,Orlando Magic,52,30,0.634,99.2,93.7,4.92,Y,N,N
@@ -316,8 +316,8 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2010,Miami Heat,47,35,0.573,96.5,94.2,1.99,Y,N,N
 2010,Milwaukee Bucks,46,36,0.561,97.7,96,1.37,Y,N,N
 2010,Minnesota Timberwolves,15,67,0.183,98.2,107.8,-9.06,N,Y,N
-2010,New Jersey Nets,12,70,0.146,92.4,101.5,-8.93,N,Y,N
-2010,New Orleans Hornets,37,45,0.451,100.2,102.7,-2.27,N,Y,N
+2010,Brooklyn Nets,12,70,0.146,92.4,101.5,-8.93,N,Y,N
+2010,Charlotte Hornets,37,45,0.451,100.2,102.7,-2.27,N,Y,N
 2010,New York Knicks,29,53,0.354,102.1,105.9,-4.01,N,Y,N
 2010,Oklahoma City Thunder,50,32,0.61,101.5,98,3.55,Y,N,N
 2010,Orlando Magic,59,23,0.72,102.8,95.3,7.12,Y,N,N
@@ -346,8 +346,8 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2009,Miami Heat,43,39,0.524,98.3,98,0.49,Y,N,N
 2009,Milwaukee Bucks,34,48,0.415,99.3,100.4,-0.88,N,Y,N
 2009,Minnesota Timberwolves,24,58,0.293,97.8,102.7,-4.74,N,Y,N
-2009,New Jersey Nets,34,48,0.415,98.1,100.5,-2.31,N,Y,N
-2009,New Orleans Hornets,49,33,0.598,95.8,94.3,1.41,Y,N,N
+2009,Brooklyn Nets,34,48,0.415,98.1,100.5,-2.31,N,Y,N
+2009,Charlotte Hornets,49,33,0.598,95.8,94.3,1.41,Y,N,N
 2009,New York Knicks,32,50,0.39,105.2,107.8,-2.33,N,Y,N
 2009,Oklahoma City Thunder,23,59,0.28,97,103.1,-6.04,N,Y,N
 2009,Orlando Magic,59,23,0.72,101,94.4,6.48,Y,N,Y
@@ -376,8 +376,8 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2008,Miami Heat,15,67,0.183,91.4,100,-8.53,N,Y,N
 2008,Milwaukee Bucks,26,56,0.317,97,103.9,-6.92,N,Y,N
 2008,Minnesota Timberwolves,22,60,0.268,95.6,102.4,-6.26,N,Y,N
-2008,New Jersey Nets,34,48,0.415,95.8,100.9,-5.15,N,Y,N
-2008,New Orleans Hornets,56,26,0.683,100.9,95.6,5.46,Y,N,N
+2008,Brooklyn Nets,34,48,0.415,95.8,100.9,-5.15,N,Y,N
+2008,Charlotte Hornets,56,26,0.683,100.9,95.6,5.46,Y,N,N
 2008,New York Knicks,23,59,0.28,96.9,103.5,-6.55,N,Y,N
 2008,Orlando Magic,52,30,0.634,104.5,99,4.79,Y,N,N
 2008,Philadelphia 76ers,40,42,0.488,96.6,96.2,0.19,Y,Y,N
@@ -385,7 +385,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2008,Portland Trail Blazers,41,41,0.5,95.4,96.3,-0.52,N,N,N
 2008,Sacramento Kings,38,44,0.463,102.5,104.8,-1.86,N,Y,N
 2008,San Antonio Spurs,56,26,0.683,95.4,90.6,5.1,Y,N,N
-2008,Seattle SuperSonics,20,62,0.244,97.5,106.3,-8.04,N,Y,N
+2008,Oklahoma City Thunder,20,62,0.244,97.5,106.3,-8.04,N,Y,N
 2008,Toronto Raptors,41,41,0.5,100.2,97.3,2.47,Y,N,N
 2008,Utah Jazz,54,28,0.659,106.2,99.3,6.86,Y,N,N
 2008,Washington Wizards,43,39,0.524,98.8,99.2,-0.61,Y,N,N
@@ -406,8 +406,8 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2007,Miami Heat,44,38,0.537,94.6,95.5,-1.21,Y,N,N
 2007,Milwaukee Bucks,28,54,0.341,99.7,104,-4.43,N,Y,N
 2007,Minnesota Timberwolves,32,50,0.39,96.1,99.7,-3.16,N,Y,N
-2007,New Jersey Nets,41,41,0.5,97.6,98.3,-1,Y,N,N
-2007,New Orleans/Oklahoma City Hornets,39,43,0.476,95.5,97.1,-1.19,N,Y,N
+2007,Brooklyn Nets,41,41,0.5,97.6,98.3,-1,Y,N,N
+2007,Charlotte Hornets,39,43,0.476,95.5,97.1,-1.19,N,Y,N
 2007,New York Knicks,33,49,0.402,97.5,100.3,-3.06,N,Y,N
 2007,Orlando Magic,40,42,0.488,94.8,94,0.35,Y,Y,N
 2007,Philadelphia 76ers,35,47,0.427,94.9,98,-3.26,N,Y,N
@@ -415,7 +415,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2007,Portland Trail Blazers,32,50,0.39,94.1,98.4,-3.78,N,Y,N
 2007,Sacramento Kings,33,49,0.402,101.3,103.1,-1.35,N,Y,N
 2007,San Antonio Spurs,58,24,0.707,98.5,90.1,8.35,Y,N,Y
-2007,Seattle SuperSonics,31,51,0.378,99.1,102,-2.45,N,Y,N
+2007,Oklahoma City Thunder,31,51,0.378,99.1,102,-2.45,N,Y,N
 2007,Toronto Raptors,47,35,0.573,99.5,98.5,0.61,Y,N,N
 2007,Utah Jazz,51,31,0.622,101.5,98.6,3.06,Y,N,N
 2007,Washington Wizards,41,41,0.5,104.3,104.9,-0.8,Y,N,N
@@ -436,8 +436,8 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2006,Miami Heat,52,30,0.634,99.9,96,3.59,Y,N,Y
 2006,Milwaukee Bucks,40,42,0.488,97.8,98.8,-1.07,Y,Y,N
 2006,Minnesota Timberwolves,33,49,0.402,91.7,93.6,-1.75,N,Y,N
-2006,New Jersey Nets,49,33,0.598,93.8,92.4,1.11,Y,N,N
-2006,New Orleans/Oklahoma City Hornets,38,44,0.463,92.8,95.6,-2.51,N,Y,N
+2006,Brooklyn Nets,49,33,0.598,93.8,92.4,1.11,Y,N,N
+2006,Charlotte Hornets,38,44,0.463,92.8,95.6,-2.51,N,Y,N
 2006,New York Knicks,23,59,0.28,95.6,102,-6.3,N,Y,N
 2006,Orlando Magic,36,46,0.439,94.9,96,-1.26,N,Y,N
 2006,Philadelphia 76ers,38,44,0.463,99.4,101.3,-2.1,N,Y,N
@@ -445,7 +445,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2006,Portland Trail Blazers,21,61,0.256,88.8,98.3,-8.91,N,Y,N
 2006,Sacramento Kings,44,38,0.537,98.9,97.3,1.61,Y,N,N
 2006,San Antonio Spurs,63,19,0.768,95.6,88.8,6.69,Y,N,N
-2006,Seattle SuperSonics,35,47,0.427,102.6,105.6,-2.88,N,Y,N
+2006,Oklahoma City Thunder,35,47,0.427,102.6,105.6,-2.88,N,Y,N
 2006,Toronto Raptors,27,55,0.329,101.1,104,-3.03,N,Y,N
 2006,Utah Jazz,41,41,0.5,92.4,95,-2.49,N,N,N
 2006,Washington Wizards,42,40,0.512,101.7,99.8,1.57,Y,N,N
@@ -466,8 +466,8 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2005,Miami Heat,59,23,0.72,101.5,95,5.77,Y,N,N
 2005,Milwaukee Bucks,30,52,0.366,97.2,100.2,-3.09,N,Y,N
 2005,Minnesota Timberwolves,44,38,0.537,96.8,95.3,1.73,N,N,N
-2005,New Jersey Nets,42,40,0.512,91.4,92.9,-1.82,Y,N,N
-2005,New Orleans Hornets,18,64,0.22,88.4,95.5,-6.3,N,Y,N
+2005,Brooklyn Nets,42,40,0.512,91.4,92.9,-1.82,Y,N,N
+2005,Charlotte Hornets,18,64,0.22,88.4,95.5,-6.3,N,Y,N
 2005,New York Knicks,33,49,0.402,97.3,99.7,-2.72,N,Y,N
 2005,Orlando Magic,36,46,0.439,99.5,101.8,-2.52,N,Y,N
 2005,Philadelphia 76ers,43,39,0.524,99.1,99.9,-1.07,Y,N,N
@@ -475,7 +475,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2005,Portland Trail Blazers,27,55,0.329,92.9,96.9,-3.45,N,Y,N
 2005,Sacramento Kings,50,32,0.61,103.7,101.6,2.56,Y,N,N
 2005,San Antonio Spurs,59,23,0.72,96.2,88.4,7.84,Y,N,Y
-2005,Seattle SuperSonics,52,30,0.634,98.9,96.6,2.59,Y,N,N
+2005,Oklahoma City Thunder,52,30,0.634,98.9,96.6,2.59,Y,N,N
 2005,Toronto Raptors,33,49,0.402,99.7,101.4,-1.81,N,Y,N
 2005,Utah Jazz,26,56,0.317,93,97.3,-3.74,N,Y,N
 2005,Washington Wizards,45,37,0.549,100.5,100.8,-0.71,Y,N,N
@@ -495,8 +495,8 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2004,Miami Heat,42,40,0.512,90.3,89.7,-0.13,Y,N,N
 2004,Milwaukee Bucks,41,41,0.5,98,97,0.42,Y,N,N
 2004,Minnesota Timberwolves,58,24,0.707,94.5,89.1,5.86,Y,N,N
-2004,New Jersey Nets,47,35,0.573,90.3,87.8,1.88,Y,N,N
-2004,New Orleans Hornets,41,41,0.5,91.8,91.9,-0.72,Y,N,N
+2004,Brooklyn Nets,47,35,0.573,90.3,87.8,1.88,Y,N,N
+2004,Charlotte Hornets,41,41,0.5,91.8,91.9,-0.72,Y,N,N
 2004,New York Knicks,39,43,0.476,92,93.5,-1.97,Y,Y,N
 2004,Orlando Magic,21,61,0.256,94,101.1,-7.25,N,Y,N
 2004,Philadelphia 76ers,33,49,0.402,88,90.5,-2.95,N,Y,N
@@ -504,7 +504,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2004,Portland Trail Blazers,41,41,0.5,90.7,92,-0.58,N,N,N
 2004,Sacramento Kings,55,27,0.671,102.8,97.8,5.41,Y,N,N
 2004,San Antonio Spurs,57,25,0.695,91.5,84.3,7.51,Y,N,N
-2004,Seattle SuperSonics,37,45,0.451,97.1,97.8,0.02,N,Y,N
+2004,Oklahoma City Thunder,37,45,0.451,97.1,97.8,0.02,N,Y,N
 2004,Toronto Raptors,33,49,0.402,85.4,88.5,-3.42,N,Y,N
 2004,Utah Jazz,42,40,0.512,88.7,89.9,-0.53,N,N,N
 2004,Washington Wizards,25,57,0.305,91.8,97.4,-6.12,N,Y,N
@@ -524,8 +524,8 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2003,Miami Heat,25,57,0.305,85.6,90.6,-5.13,N,Y,N
 2003,Milwaukee Bucks,42,40,0.512,99.5,99.3,-0.24,Y,N,N
 2003,Minnesota Timberwolves,51,31,0.622,98.1,96,2.46,Y,N,N
-2003,New Jersey Nets,49,33,0.598,95.4,90.1,4.42,Y,N,Y
-2003,New Orleans Hornets,47,35,0.573,93.9,91.8,1.52,Y,N,N
+2003,Brooklyn Nets,49,33,0.598,95.4,90.1,4.42,Y,N,Y
+2003,Charlotte Hornets,47,35,0.573,93.9,91.8,1.52,Y,N,N
 2003,New York Knicks,37,45,0.451,95.9,97.2,-1.61,N,Y,N
 2003,Orlando Magic,42,40,0.512,98.5,98.4,-0.39,Y,N,N
 2003,Philadelphia 76ers,48,34,0.585,96.8,94.5,1.76,Y,N,N
@@ -533,7 +533,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2003,Portland Trail Blazers,50,32,0.61,95.2,92.5,2.97,Y,N,N
 2003,Sacramento Kings,59,23,0.72,101.7,95.2,6.68,Y,N,N
 2003,San Antonio Spurs,60,22,0.732,95.8,90.4,5.65,Y,N,Y
-2003,Seattle SuperSonics,40,42,0.488,92.1,92.3,0.37,N,Y,N
+2003,Oklahoma City Thunder,40,42,0.488,92.1,92.3,0.37,N,Y,N
 2003,Toronto Raptors,24,58,0.293,90.9,96.8,-6.1,N,Y,N
 2003,Utah Jazz,47,35,0.573,94.7,92.3,2.76,Y,N,N
 2003,Washington Wizards,37,45,0.451,91.5,92.5,-1.47,N,Y,N
@@ -554,7 +554,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2002,Miami Heat,36,46,0.439,87.2,88.7,-1.84,N,Y,N
 2002,Milwaukee Bucks,41,41,0.5,97.5,97.7,-0.62,N,N,N
 2002,Minnesota Timberwolves,50,32,0.61,99.3,96,3.58,Y,N,N
-2002,New Jersey Nets,52,30,0.634,96.2,92,3.67,Y,N,Y
+2002,Brooklyn Nets,52,30,0.634,96.2,92,3.67,Y,N,Y
 2002,New York Knicks,30,52,0.366,91.6,95.6,-4.15,N,Y,N
 2002,Orlando Magic,44,38,0.537,100.5,98.9,1.25,Y,N,N
 2002,Philadelphia 76ers,43,39,0.524,91,89.4,1.27,Y,N,N
@@ -562,7 +562,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2002,Portland Trail Blazers,49,33,0.598,96.6,93.7,3.21,Y,N,N
 2002,Sacramento Kings,61,21,0.744,104.6,97,7.61,Y,N,N
 2002,San Antonio Spurs,58,24,0.707,96.7,90.5,6.28,Y,N,N
-2002,Seattle SuperSonics,45,37,0.549,97.7,94.7,3.24,Y,N,N
+2002,Oklahoma City Thunder,45,37,0.549,97.7,94.7,3.24,Y,N,N
 2002,Toronto Raptors,42,40,0.512,91.4,91.8,-0.71,Y,N,N
 2002,Utah Jazz,44,38,0.537,96,95.1,1.21,Y,N,N
 2002,Washington Wizards,37,45,0.451,92.8,94.2,-1.58,N,Y,N
@@ -582,7 +582,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2001,Miami Heat,50,32,0.61,88.9,86.6,1.73,Y,N,N
 2001,Milwaukee Bucks,52,30,0.634,100.7,96.9,3.14,Y,N,N
 2001,Minnesota Timberwolves,47,35,0.573,97.3,96,1.81,Y,N,N
-2001,New Jersey Nets,26,56,0.317,92.1,97.1,-5.3,N,Y,N
+2001,Brooklyn Nets,26,56,0.317,92.1,97.1,-5.3,N,Y,N
 2001,New York Knicks,48,34,0.585,88.7,86.1,1.98,Y,N,N
 2001,Orlando Magic,43,39,0.524,97.5,96.5,0.39,Y,N,N
 2001,Philadelphia 76ers,56,26,0.683,94.7,90.4,3.64,Y,N,Y
@@ -590,7 +590,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2001,Portland Trail Blazers,50,32,0.61,95.4,91.2,4.52,Y,N,N
 2001,Sacramento Kings,55,27,0.671,101.7,95.9,6.07,Y,N,N
 2001,San Antonio Spurs,58,24,0.707,96.2,88.4,7.92,Y,N,N
-2001,Seattle SuperSonics,44,38,0.537,97.3,97.3,0.55,N,N,N
+2001,Oklahoma City Thunder,44,38,0.537,97.3,97.3,0.55,N,N,N
 2001,Toronto Raptors,47,35,0.573,97.6,95.4,1.69,Y,N,N
 2001,Utah Jazz,53,29,0.646,97.1,92.4,5,Y,N,N
 2001,Vancouver Grizzlies,23,59,0.28,91.7,97.5,-4.94,N,Y,N
@@ -611,7 +611,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2000,Miami Heat,52,30,0.634,94.4,91.3,2.75,Y,N,N
 2000,Milwaukee Bucks,42,40,0.512,101.2,101,-0.06,Y,N,N
 2000,Minnesota Timberwolves,50,32,0.61,98.5,96,2.67,Y,N,N
-2000,New Jersey Nets,31,51,0.378,98,99,-1.18,N,Y,N
+2000,Brooklyn Nets,31,51,0.378,98,99,-1.18,N,Y,N
 2000,New York Knicks,50,32,0.61,92.1,90.7,1.3,Y,N,N
 2000,Orlando Magic,41,41,0.5,100.1,99.4,0.43,N,N,N
 2000,Philadelphia 76ers,49,33,0.598,94.8,93.4,1.02,Y,N,N
@@ -619,7 +619,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 2000,Portland Trail Blazers,59,23,0.72,97.5,91,6.36,Y,N,N
 2000,Sacramento Kings,44,38,0.537,105,102,3.04,Y,N,N
 2000,San Antonio Spurs,53,29,0.646,96.2,90.2,5.92,Y,N,N
-2000,Seattle SuperSonics,45,37,0.549,99.1,98.1,1.17,Y,N,N
+2000,Oklahoma City Thunder,45,37,0.549,99.1,98.1,1.17,Y,N,N
 2000,Toronto Raptors,45,37,0.549,97.2,97.3,-0.46,Y,N,N
 2000,Utah Jazz,55,27,0.671,96.5,92,4.52,Y,N,N
 2000,Vancouver Grizzlies,22,60,0.268,93.9,99.5,-5.1,N,Y,N
@@ -640,7 +640,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1999,Miami Heat,33,17,0.66,89,84,5.11,Y,N,N
 1999,Milwaukee Bucks,28,22,0.56,91.7,90,1.66,Y,N,N
 1999,Minnesota Timberwolves,25,25,0.5,92.9,92.6,-0.17,Y,N,N
-1999,New Jersey Nets,16,34,0.32,91.4,95.2,-3.2,N,Y,N
+1999,Brooklyn Nets,16,34,0.32,91.4,95.2,-3.2,N,Y,N
 1999,New York Knicks,27,23,0.54,86.4,85.4,1.45,Y,N,Y
 1999,Orlando Magic,33,17,0.66,89.5,86.9,3.11,Y,N,N
 1999,Philadelphia 76ers,28,22,0.56,89.7,87.6,2.56,Y,N,N
@@ -648,7 +648,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1999,Portland Trail Blazers,35,15,0.7,94.8,88.5,5.67,Y,N,N
 1999,Sacramento Kings,27,23,0.54,100.2,100.6,-0.89,Y,N,N
 1999,San Antonio Spurs,37,13,0.74,92.8,84.7,7.12,Y,N,Y
-1999,Seattle SuperSonics,25,25,0.5,94.9,95.9,-1.43,N,N,N
+1999,Oklahoma City Thunder,25,25,0.5,94.9,95.9,-1.43,N,N,N
 1999,Toronto Raptors,23,27,0.46,91.1,92.8,-1.32,N,Y,N
 1999,Utah Jazz,37,13,0.74,93.3,86.8,5.54,Y,N,N
 1999,Vancouver Grizzlies,8,42,0.16,88.9,97.5,-8.94,N,Y,N
@@ -669,7 +669,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1998,Miami Heat,55,27,0.671,95,90,5.09,Y,N,N
 1998,Milwaukee Bucks,36,46,0.439,94.5,96.4,-1.33,N,Y,N
 1998,Minnesota Timberwolves,45,37,0.549,101.1,100.4,0.17,Y,N,N
-1998,New Jersey Nets,43,39,0.524,99.6,98.1,1.88,Y,N,N
+1998,Brooklyn Nets,43,39,0.524,99.6,98.1,1.88,Y,N,N
 1998,New York Knicks,43,39,0.524,91.6,89.1,2.74,Y,N,N
 1998,Orlando Magic,41,41,0.5,90.1,91.2,-0.53,N,N,N
 1998,Philadelphia 76ers,31,51,0.378,93.3,95.7,-1.89,N,Y,N
@@ -677,7 +677,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1998,Portland Trail Blazers,46,36,0.561,94.3,92.9,0.83,Y,N,N
 1998,Sacramento Kings,27,55,0.329,93.1,98.7,-5.83,N,Y,N
 1998,San Antonio Spurs,56,26,0.683,92.5,88.5,3.3,Y,N,N
-1998,Seattle SuperSonics,61,21,0.744,100.6,93.4,6.33,Y,N,N
+1998,Oklahoma City Thunder,61,21,0.744,100.6,93.4,6.33,Y,N,N
 1998,Toronto Raptors,16,66,0.195,94.9,104.2,-8.33,N,Y,N
 1998,Utah Jazz,62,20,0.756,101,94.4,5.73,Y,N,Y
 1998,Vancouver Grizzlies,19,63,0.232,96.6,103.9,-7.47,N,Y,N
@@ -698,7 +698,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1997,Miami Heat,61,21,0.744,94.8,89.3,5.56,Y,N,N
 1997,Milwaukee Bucks,33,49,0.402,95.3,97.2,-1.38,N,Y,N
 1997,Minnesota Timberwolves,40,42,0.488,96.1,97.6,-1.82,Y,Y,N
-1997,New Jersey Nets,26,56,0.317,97.2,101.8,-3.89,N,Y,N
+1997,Brooklyn Nets,26,56,0.317,97.2,101.8,-3.89,N,Y,N
 1997,New York Knicks,57,25,0.695,95.4,92.2,3.31,Y,N,N
 1997,Orlando Magic,45,37,0.549,94.1,94.5,-0.07,Y,N,N
 1997,Philadelphia 76ers,22,60,0.268,100.2,106.7,-5.89,N,Y,N
@@ -706,7 +706,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1997,Portland Trail Blazers,49,33,0.598,99,94.8,3.56,Y,N,N
 1997,Sacramento Kings,34,48,0.415,96.4,99.8,-3.64,N,Y,N
 1997,San Antonio Spurs,20,62,0.244,90.5,98.3,-7.93,N,Y,N
-1997,Seattle SuperSonics,57,25,0.695,100.9,93.2,6.91,Y,N,N
+1997,Oklahoma City Thunder,57,25,0.695,100.9,93.2,6.91,Y,N,N
 1997,Toronto Raptors,30,52,0.366,95.5,98.6,-2.56,N,Y,N
 1997,Utah Jazz,64,18,0.78,103.1,94.3,7.97,Y,N,Y
 1997,Vancouver Grizzlies,14,68,0.171,89.2,99.4,-10.17,N,Y,N
@@ -727,7 +727,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1996,Miami Heat,42,40,0.512,96.5,95,1.46,Y,N,N
 1996,Milwaukee Bucks,25,57,0.305,95.6,100.9,-4.92,N,Y,N
 1996,Minnesota Timberwolves,26,56,0.317,97.9,103.2,-5.14,N,Y,N
-1996,New Jersey Nets,30,52,0.366,93.7,97.9,-4.14,N,Y,N
+1996,Brooklyn Nets,30,52,0.366,93.7,97.9,-4.14,N,Y,N
 1996,New York Knicks,47,35,0.573,97.2,94.9,2.24,Y,N,N
 1996,Orlando Magic,60,22,0.732,104.5,99,5.4,Y,N,N
 1996,Philadelphia 76ers,18,64,0.22,94.5,104.5,-9.45,N,Y,N
@@ -735,7 +735,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1996,Portland Trail Blazers,44,38,0.537,99.3,97,2.21,Y,N,N
 1996,Sacramento Kings,39,43,0.476,99.5,102.3,-2.62,Y,Y,N
 1996,San Antonio Spurs,59,23,0.72,103.4,97.1,5.98,Y,N,N
-1996,Seattle SuperSonics,64,18,0.78,104.5,96.7,7.4,Y,N,Y
+1996,Oklahoma City Thunder,64,18,0.78,104.5,96.7,7.4,Y,N,Y
 1996,Toronto Raptors,21,61,0.256,97.5,105,-7.2,N,Y,N
 1996,Utah Jazz,55,27,0.671,102.5,95.9,6.25,Y,N,N
 1996,Vancouver Grizzlies,15,67,0.183,89.8,99.8,-9.55,N,Y,N
@@ -756,7 +756,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1995,Miami Heat,32,50,0.39,101.1,102.8,-1.85,N,Y,N
 1995,Milwaukee Bucks,34,48,0.415,99.3,103.7,-4.3,N,Y,N
 1995,Minnesota Timberwolves,21,61,0.256,94.2,103.2,-8.22,N,Y,N
-1995,New Jersey Nets,30,52,0.366,98.1,101.2,-3.28,N,Y,N
+1995,Brooklyn Nets,30,52,0.366,98.1,101.2,-3.28,N,Y,N
 1995,New York Knicks,55,27,0.671,98.2,95.1,2.78,Y,N,N
 1995,Orlando Magic,57,25,0.695,110.9,103.8,6.44,Y,N,Y
 1995,Philadelphia 76ers,24,58,0.293,95.4,100.4,-5.06,N,Y,N
@@ -764,7 +764,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1995,Portland Trail Blazers,44,38,0.537,103.1,99.2,3.8,Y,N,N
 1995,Sacramento Kings,39,43,0.476,98.2,99.2,-0.74,N,Y,N
 1995,San Antonio Spurs,62,20,0.756,106.6,100.6,5.9,Y,N,N
-1995,Seattle SuperSonics,57,25,0.695,110.4,102.2,7.91,Y,N,N
+1995,Oklahoma City Thunder,57,25,0.695,110.4,102.2,7.91,Y,N,N
 1995,Utah Jazz,60,22,0.732,106.4,98.4,7.76,Y,N,N
 1995,Washington Bullets,21,61,0.256,100.5,106.1,-5.56,N,Y,N
 1994,Atlanta Hawks,57,25,0.695,101.4,96.2,4.94,Y,N,N
@@ -783,7 +783,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1994,Miami Heat,42,40,0.512,103.4,100.7,2.4,Y,N,N
 1994,Milwaukee Bucks,20,62,0.244,96.9,103.4,-6.24,N,Y,N
 1994,Minnesota Timberwolves,20,62,0.244,96.7,103.6,-6.55,N,Y,N
-1994,New Jersey Nets,45,37,0.549,103.2,101,2.11,Y,N,N
+1994,Brooklyn Nets,45,37,0.549,103.2,101,2.11,Y,N,N
 1994,New York Knicks,57,25,0.695,98.5,91.5,6.48,Y,N,Y
 1994,Orlando Magic,50,32,0.61,105.7,101.8,3.68,Y,N,N
 1994,Philadelphia 76ers,25,57,0.305,98,105.6,-7.37,N,Y,N
@@ -791,7 +791,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1994,Portland Trail Blazers,47,35,0.573,107.3,104.6,2.6,Y,N,N
 1994,Sacramento Kings,28,54,0.341,101.1,106.9,-5.32,N,Y,N
 1994,San Antonio Spurs,55,27,0.671,100,94.8,5.05,Y,N,N
-1994,Seattle SuperSonics,63,19,0.768,105.9,96.9,8.68,Y,N,N
+1994,Oklahoma City Thunder,63,19,0.768,105.9,96.9,8.68,Y,N,N
 1994,Utah Jazz,53,29,0.646,101.9,97.7,4.1,Y,N,N
 1994,Washington Bullets,24,58,0.293,100.4,107.7,-7.13,N,Y,N
 1993,Atlanta Hawks,43,39,0.524,107.5,108.4,-0.67,Y,N,N
@@ -810,7 +810,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1993,Miami Heat,36,46,0.439,103.6,104.7,-0.93,N,Y,N
 1993,Milwaukee Bucks,28,54,0.341,102.3,106.1,-3.26,N,Y,N
 1993,Minnesota Timberwolves,19,63,0.232,98.1,105.9,-7.62,N,Y,N
-1993,New Jersey Nets,43,39,0.524,102.8,101.6,1.2,Y,N,N
+1993,Brooklyn Nets,43,39,0.524,102.8,101.6,1.2,Y,N,N
 1993,New York Knicks,60,22,0.732,101.6,95.4,5.87,Y,N,N
 1993,Orlando Magic,41,41,0.5,105.5,104.2,1.35,N,N,N
 1993,Philadelphia 76ers,26,56,0.317,104.3,110.1,-5.25,N,Y,N
@@ -818,7 +818,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1993,Portland Trail Blazers,51,31,0.622,108.5,105.4,2.92,Y,N,N
 1993,Sacramento Kings,25,57,0.305,107.9,111.1,-3,N,Y,N
 1993,San Antonio Spurs,49,33,0.598,105.5,102.8,2.21,Y,N,N
-1993,Seattle SuperSonics,55,27,0.671,108.3,101.3,6.66,Y,N,N
+1993,Oklahoma City Thunder,55,27,0.671,108.3,101.3,6.66,Y,N,N
 1993,Utah Jazz,47,35,0.573,106.2,104,1.74,Y,N,N
 1993,Washington Bullets,22,60,0.268,101.9,108.9,-6.49,N,Y,N
 1992,Atlanta Hawks,38,44,0.463,106.2,107.7,-1.15,N,Y,N
@@ -837,7 +837,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1992,Miami Heat,38,44,0.463,105,109.2,-3.94,Y,Y,N
 1992,Milwaukee Bucks,31,51,0.378,105,106.7,-1.46,N,Y,N
 1992,Minnesota Timberwolves,15,67,0.183,100.5,107.5,-6.85,N,Y,N
-1992,New Jersey Nets,40,42,0.488,105.4,107.1,-1.54,Y,Y,N
+1992,Brooklyn Nets,40,42,0.488,105.4,107.1,-1.54,Y,Y,N
 1992,New York Knicks,51,31,0.622,101.6,97.7,3.67,Y,N,N
 1992,Orlando Magic,21,61,0.256,101.6,108.5,-6.52,N,Y,N
 1992,Philadelphia 76ers,35,47,0.427,101.9,103.2,-1.34,N,Y,N
@@ -845,7 +845,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1992,Portland Trail Blazers,57,25,0.695,111.4,104.1,6.94,Y,N,Y
 1992,Sacramento Kings,29,53,0.354,104.3,110.3,-5.63,N,Y,N
 1992,San Antonio Spurs,47,35,0.573,104,100.6,2.81,Y,N,N
-1992,Seattle SuperSonics,47,35,0.573,106.5,104.7,1.86,Y,N,N
+1992,Oklahoma City Thunder,47,35,0.573,106.5,104.7,1.86,Y,N,N
 1992,Utah Jazz,55,27,0.671,108.3,101.9,5.7,Y,N,N
 1992,Washington Bullets,25,57,0.305,102.4,106.8,-4.35,N,Y,N
 1991,Atlanta Hawks,43,39,0.524,109.8,109,0.72,Y,N,N
@@ -864,7 +864,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1991,Miami Heat,24,58,0.293,101.8,107.8,-5.91,N,Y,N
 1991,Milwaukee Bucks,48,34,0.585,106.4,104,2.33,Y,N,N
 1991,Minnesota Timberwolves,29,53,0.354,99.6,103.5,-3.75,N,Y,N
-1991,New Jersey Nets,26,56,0.317,102.9,107.5,-4.53,N,Y,N
+1991,Brooklyn Nets,26,56,0.317,102.9,107.5,-4.53,N,Y,N
 1991,New York Knicks,39,43,0.476,103.1,103.3,-0.43,Y,Y,N
 1991,Orlando Magic,31,51,0.378,105.9,109.9,-3.79,N,Y,N
 1991,Philadelphia 76ers,44,38,0.537,105.4,105.6,-0.39,Y,N,N
@@ -872,7 +872,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1991,Portland Trail Blazers,63,19,0.768,114.7,106,8.47,Y,N,N
 1991,Sacramento Kings,25,57,0.305,96.7,103.5,-6.27,N,Y,N
 1991,San Antonio Spurs,55,27,0.671,107.1,102.6,4.3,Y,N,N
-1991,Seattle SuperSonics,41,41,0.5,106.6,105.4,1.31,Y,N,N
+1991,Oklahoma City Thunder,41,41,0.5,106.6,105.4,1.31,Y,N,N
 1991,Utah Jazz,54,28,0.659,104,100.7,3.18,Y,N,N
 1991,Washington Bullets,30,52,0.366,101.4,106.4,-4.84,N,Y,N
 1990,Atlanta Hawks,41,41,0.5,108.5,107.5,0.64,N,N,N
@@ -891,7 +891,7 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1990,Miami Heat,18,64,0.22,100.6,110.3,-9.59,N,Y,N
 1990,Milwaukee Bucks,44,38,0.537,106,106.8,-1.06,Y,N,N
 1990,Minnesota Timberwolves,22,60,0.268,95.2,99.4,-3.6,N,Y,N
-1990,New Jersey Nets,17,65,0.207,100.1,108,-7.82,N,Y,N
+1990,Brooklyn Nets,17,65,0.207,100.1,108,-7.82,N,Y,N
 1990,New York Knicks,45,37,0.549,108.3,106.9,0.78,Y,N,N
 1990,Orlando Magic,18,64,0.22,110.9,119.8,-8.73,N,Y,N
 1990,Philadelphia 76ers,53,29,0.646,110.2,105.2,4.23,Y,N,N
@@ -899,6 +899,6 @@ Year,Team,W,L,W/L%,PS/G,PA/G,SRS,Playoffs,Losing_season,Finals_Team
 1990,Portland Trail Blazers,59,23,0.72,114.2,107.9,6.48,Y,N,Y
 1990,Sacramento Kings,23,59,0.28,101.7,106.8,-4.41,N,Y,N
 1990,San Antonio Spurs,56,26,0.683,106.3,102.8,3.58,Y,N,N
-1990,Seattle SuperSonics,41,41,0.5,106.9,105.9,1.4,N,N,N
+1990,Oklahoma City Thunder,41,41,0.5,106.9,105.9,1.4,N,N,N
 1990,Utah Jazz,55,27,0.671,106.8,102,4.82,Y,N,N
 1990,Washington Bullets,31,51,0.378,107.7,109.9,-2.43,N,Y,N
