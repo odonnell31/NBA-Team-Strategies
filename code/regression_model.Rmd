@@ -1,0 +1,28 @@
+---
+title: "DATA621 Final Project, Does Tanking Work in the NBA?"
+author: "Michael O'Donnell"
+date: "December 8, 2020"
+output: html_document
+---
+
+```{r echo=FALSE}
+# load required packages
+library(ggplot2)
+library(dplyr)
+library(corrplot)
+library(MASS)
+library(caret)
+library(RCurl)
+library(pROC)
+library(RCurl)
+library(haven)
+```
+
+```{r import}
+# Loading the data
+git_dir <- 'https://raw.githubusercontent.com/odonnell31/DATA621-HW4/main/data'
+#class_data = read.csv(paste(git_dir, "/classification-output-data.csv", sep=""))
+train_df = read.csv(paste(git_dir, "/insurance_training_data.csv", sep=""))
+test_df = read.csv(paste(git_dir, "/insurance-evaluation-data.csv", sep = ""))
+head(train_df, 2)
+```

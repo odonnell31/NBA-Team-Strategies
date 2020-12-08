@@ -18,7 +18,8 @@ def scrape_NBA_team_data(years = [2017, 2018]):
     # first, create empty dataframe with needed column headers
     final_df = pd.DataFrame(columns = ["Year", "Team", "W", "L",
                                        "W/L%", "GB", "PS/G", "PA/G",
-                                       "SRS", "Playoffs", "Losing_season"])
+                                       "SRS", "Playoffs",
+                                       "Losing_season"])
     
     # loop through each year, scraping team performance that year
     for y in years:
