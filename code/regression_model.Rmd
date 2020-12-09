@@ -5,7 +5,7 @@ date: "December 8, 2020"
 output: html_document
 ---
 
-```{r echo=FALSE}
+```{r load_packages echo=FALSE}
 # load required packages
 library(ggplot2)
 library(dplyr)
@@ -16,13 +16,16 @@ library(RCurl)
 library(pROC)
 library(RCurl)
 library(haven)
+library(QuantPsyc)
 ```
 
 ```{r import}
 # Loading the data
-git_dir <- 'https://raw.githubusercontent.com/odonnell31/DATA621-HW4/main/data'
-#class_data = read.csv(paste(git_dir, "/classification-output-data.csv", sep=""))
-train_df = read.csv(paste(git_dir, "/insurance_training_data.csv", sep=""))
-test_df = read.csv(paste(git_dir, "/insurance-evaluation-data.csv", sep = ""))
-head(train_df, 2)
+git_dir <- 'https://raw.githubusercontent.com/odonnell31/NBA-Team-Strategies/main/data'
+df = read.csv(paste(git_dir, "/nba_teams_data_1990_2020.csv", sep=""))
 ```
+
+```{r}
+
+```
+
