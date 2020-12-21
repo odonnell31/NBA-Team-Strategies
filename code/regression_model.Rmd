@@ -2,12 +2,14 @@
 title: "DATA621 Final Project, Does Tanking Work in the NBA?"
 author: "Michael O'Donnell"
 date: "December 8, 2020"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 ## Load data and required libraries
 
-```{r load_packages echo=FALSE}
+```{r load_packages}
 # load required packages
 library(ggplot2)
 library(dplyr)
